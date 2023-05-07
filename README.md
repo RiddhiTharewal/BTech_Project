@@ -4,6 +4,11 @@ Route Alignment System using GIS
 
 https://coepac-my.sharepoint.com/:p:/g/personal/tharewalrg19_comp_coeptech_ac_in/EehiL3ImHrlCoGUvAnz98EMBwoy31-W1RhuzR1m7vpMXxA?e=pjQR7T
 
+# Run Code
+First train lulc model that is run lulc.ipynb
+save the output image using unet.jpg
+Run route_alignment.ipynb choose source and destination according to requirement
+
 
 ## Land Use Land Cover
 
