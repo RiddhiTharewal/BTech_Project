@@ -6,7 +6,9 @@ https://coepac-my.sharepoint.com/:p:/g/personal/tharewalrg19_comp_coeptech_ac_in
 
 # Run Code
 First train lulc model that is run lulc.ipynb
-save the output image using unet.jpg
+
+Save the output image using unet.jpg
+
 Run route_alignment.ipynb choose source and destination according to requirement
 
 
